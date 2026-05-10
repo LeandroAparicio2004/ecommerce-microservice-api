@@ -14,9 +14,13 @@ Todo esto ocurre de forma asíncrona, sin que un servicio dependa del otro para 
 ## Arquitectura
 
 [ Cliente ] → [ Store Service :8000 ] → [ PostgreSQL ]
+
 ↓
+
 [ Redis ]
+
 ↓
+
 [ Notification Service ]
 
 ## Tecnologías
