@@ -64,6 +64,10 @@ http://localhost:8000/docs
 | GET | /orders/ | Listar órdenes |
 | POST | /orders/ | Crear orden de compra |
 
+## Implementado en
+
+La arquitectura de este proyecto fue aplicada y expandida en [TaskFlow](https://github.com/LeandroAparicio2004/TaskFlow), una aplicación Full Stack de gestión de proyectos en equipo.
+
 ## Autor
 
 **Leandro Aparicio** — [GitHub](https://github.com/LeandroAparicio2004)
