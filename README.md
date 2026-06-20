@@ -38,21 +38,6 @@ Todo esto ocurre de forma asíncrona, sin que un servicio dependa del otro para 
 
 - Docker Desktop instalado y corriendo
 
-## Cómo ejecutar
-
-1. Clonar el repositorio
-bash
-git clone https://github.com/tu-usuario/ecommerce-microservice-api.git
-cd ecommerce-microservice-api
-
-2. Levantar todos los servicios
-bash
-docker-compose up --build
-
-
-3. Abrir la documentación interactiva
-http://localhost:8000/docs
-
 ## Endpoints principales
 
 | Método | Endpoint | Descripción |
@@ -70,4 +55,4 @@ La arquitectura de este proyecto fue aplicada y expandida en [TaskFlow](https://
 
 ## Autor
 
-**Leandro Aparicio** — [GitHub](https://github.com/LeandroAparicio2004)
+**Leandro Aparicio**
